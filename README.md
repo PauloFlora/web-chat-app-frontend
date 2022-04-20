@@ -15,7 +15,7 @@ A aplicação consiste em duas páginas, sendo uma de Login em que a pessoa usu�
 `git clone git@github.com:PauloFlora/web-chat-app-frontend.git`
 
 2. Entre na pasta do repositório que você acabou de clonar:<br>
-`cd sd-015-a-project-trybesmith`
+`cd web-chat-app-frontend`
 
 3. Instale as dependências<br>
 `npm install`
